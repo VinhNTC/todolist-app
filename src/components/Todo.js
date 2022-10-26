@@ -18,7 +18,7 @@ export const ToDoList = () => {
     }
     
     return (
-        <div style={{ backgroundColor: "#FFE1FF" }}>
+        <div style={{ backgroundColor: "#FFFFFF" }}>
             <h2>TODO LIST</h2>
             {/* 
             
