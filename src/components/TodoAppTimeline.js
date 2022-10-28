@@ -23,7 +23,7 @@ export function TodoAppTimeline() {
     }
     return (
         <div style={{ backgroundColor: "#99FFFF" }}>
-            <h2>TODO TIMELINE</h2>
+            <h2 className='todo timeline'>TODO TIMELINE</h2>
             <VerticalTimeline>
                 {data.map((event, idx) => (
                 <VerticalTimelineElement
